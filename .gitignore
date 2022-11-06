@@ -1,3 +1,10 @@
 
 
 *.csv
+*.jpg
+Paper_Review/.DS_Store
+*.db
+VGG-NET/data/test_final_with_degrad/test/.DS_Store
+Paper_Review/.DS_Store
+Paper_Review/.DS_Store
+.DS_Store
